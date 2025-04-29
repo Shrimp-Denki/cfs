@@ -4,3 +4,4 @@ todo.md
 .eslintrc.json
 .prettierrc.json
 package-lock.json
+confessions.sqlite
